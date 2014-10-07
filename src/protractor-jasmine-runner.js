@@ -2,7 +2,6 @@
 var specs = require('../node_modules/jasmine-cucumber/src/jasmine-cucumber.js'),
     jasmineFeatureRunner = require('../node_modules/jasmine-cucumber/src/jasmine-feature-runner.js')(specs.features, specs.steps);
 
-console.log('here.... ', specs.features.length);
 describe('', function(){
     setTimeout(function(){
       // TODO: maybe this should be in the runner...
