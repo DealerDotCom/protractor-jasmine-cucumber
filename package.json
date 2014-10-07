@@ -1,0 +1,28 @@
+{
+  "name": "protractor-jasmine-cucumber",
+  "version": "0.1.0",
+  "description": "cucumer-like api for protractor and jasmine",
+  "main": "src/index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DealerDotCom/protractor-jasmine-cucumber.git"
+  },
+  "keywords": [
+    "jasmine",
+    "cucumber",
+    "test",
+    "integration",
+    "bdd",
+    "protractor"
+  ],
+  "author": "Jonathan Hoguet <jonathan.hoguet@dealer.com>",
+  "license": "Apache-v2",
+  "bugs": {
+    "url": "https://github.com/DealerDotCom/protractor-jasmine-cucumber/issues"
+  },
+  "dependencies": {
+    "jasmine-cucumber": "~0.1.0"
+  }
+}
