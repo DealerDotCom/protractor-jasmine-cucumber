@@ -1,7 +1,7 @@
 {
   "name": "protractor-jasmine-cucumber",
   "version": "0.1.1",
-  "description": "cucumer-like api for protractor and jasmine",
+  "description": "cucumber-like api for protractor and jasmine",
   "main": "src/index.js",
   "scripts": {
   },
