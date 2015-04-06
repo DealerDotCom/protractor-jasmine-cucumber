@@ -1,9 +1,10 @@
 {
   "name": "protractor-jasmine-cucumber",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "cucumber-like api for protractor and jasmine",
   "main": "src/index.js",
   "scripts": {
+      "test" : "npm install && ./node_modules/protractor/bin/protractor test/config.js"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,9 @@
     "url": "https://github.com/DealerDotCom/protractor-jasmine-cucumber/issues"
   },
   "dependencies": {
-    "jasmine-cucumber": "~0.1.0"
+    "jasmine-cucumber": "~1.1.0"
+  },
+  "devDependencies": {
+    "protractor": "^2.0.0"
   }
 }
