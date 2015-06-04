@@ -2,7 +2,7 @@
 
 var path = require('path'),
     // TODO: should be able to require('jasmine-cucumber')
-    jasmineCucumber = require('../node_modules/jasmine-cucumber/src/jasmine-cucumber.js');
+    jasmineCucumber = require('jasmine-cucumber/src/jasmine-cucumber.js');
 
 module.exports = {
     injectFiles : function(){
