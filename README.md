@@ -1,6 +1,11 @@
 protractor-jasmine-cucumber
 ================
 
+# Deprecated at Dealer.com
+Given minimal adoption of this package at Dealer.com we have decided to deprecate it. We are embracing cucumberjs and finding it to be good enough. 
+
+If you would like to continue this repo, let us know and we can link to your fork and give you access to publish to it on npm. 
+
 # Getting Started
 
 	npm install protractor-jasmine-cucumber --save-dev
